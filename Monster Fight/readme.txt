@@ -1,0 +1,1 @@
+Monster Fight is a 2D top-down shooting game in the Windows platform. In this game, you play a shooter from a top-down view and kill different monsters with the use of some weapons. In total, there are 4 dungeons, 3 types of equipment and 3 kinds of enemies. 
